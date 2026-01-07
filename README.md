@@ -105,8 +105,8 @@ Python · Django · Node.js · Express · React · MySQL · Redis · AWS · Digi
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=snigdho48&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
-<img src="https://streak-stats.demolab.com?user=snigdho48&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snigdho48&theme=tokyonight" width="60%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snigdho48&theme=tokyonight" width="36%"/>
 </p>
 
 ---
@@ -122,7 +122,7 @@ Python · Django · Node.js · Express · React · MySQL · Redis · AWS · Digi
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=snigdho48&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snigdho48&theme=tokyo-night&hide_border=true"/>
 
 </p>
 

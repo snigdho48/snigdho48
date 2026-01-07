@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I am a **Senior Backend Software Engineer** with **3+ years of real production experience**
+I am a **Software Engineer** with **3+ years of real production experience**
 building **scalable, data-intensive backend systems**.
 
 I work mainly on **Reachable’s ad-tech ecosystem**, including **Braincount**, an enterprise
@@ -32,11 +32,11 @@ I focus on:
 
 ---
 
-## 🧠 What I Do (Senior Focus)
+## 🧠 What I Do
 
 - Design and maintain **RESTful backend systems**
 - Build **background jobs** using Celery & Redis
-- Optimize **database queries** for large datasets
+- Optimiabase queries** for large datasets
 - Convert **business workflows** into scalable systems
 - Ensure **production stability**
 - Review code & guide junior developers
@@ -53,7 +53,7 @@ I focus on:
 - Background processing & scheduling pipelines
 - Optimized systems for **multiple concurrent campaigns**
 
-**Tech:** Python · Django · PostgreSQL/MySQL · Celery · Redis · AWS
+**Tech:** Python · Django · MySQL · Celery · Redis · AWS · DigitalOcean 
 
 ---
 

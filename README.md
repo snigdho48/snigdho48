@@ -115,7 +115,10 @@ Python · Django · Node.js · Express · React · MySQL · Redis · AWS · Digi
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=snigdho48&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdho48&theme=tokyonight&hide_border=true"/>
 </p>
+
 
 ---
 

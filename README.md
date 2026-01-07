@@ -102,19 +102,19 @@ Python · Django · Node.js · Express · React · MySQL · Redis · AWS · Digi
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=snigdho48&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snigdho48&theme=tokyonight" width="60%" height="100%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snigdho48&theme=tokyonight" width="36%" height="80%"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=snigdho48&theme=tokyonight&hide_border=true&cache_seconds=21600"/>
 </p>
 
 ---
